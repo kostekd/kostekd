@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kostekd
 - 👀 I’m interested working as a Web developer
-- 🌱 I’m currently learning about bundlers, CI/CD. 
+- 🌱 I’m currently learning about bundlers, JS tools and CI/CD. 
 
 
 <!---
