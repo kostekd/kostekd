@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kostekd
-- 👀 Currently working as a web developer
-- 🌱 I’m learning about bundlers, NodeJS and CI/CD. 
+- 👀 Currently working as a full-stack developer 
+- 🌱 I’m learning about bundlers, NodeJS, and CI/CD. 
 
 
 <!---
