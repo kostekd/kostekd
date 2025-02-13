@@ -7,6 +7,7 @@
 
 ### Technologies I’m Into and Working With:
 - **TypeScript**
+- **NextJS**
 - **AWS**
 - **Node.js**
 - **PHP**
