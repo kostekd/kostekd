@@ -22,8 +22,4 @@ TypeScript | Next.js | AWS | Node.js | PHP | Laravel
 - Exploring scalable architecture patterns
 - Learning new technologies and frameworks
 
-## Connect
 
-Feel free to reach out for collaborations or discussions on tech.
-
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
